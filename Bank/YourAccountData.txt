@@ -1,0 +1,8 @@
+Type: unknown
+Number: 200
+Balance: 0.0
+Transaction: 1 
+Id: 100
+Type: unknown
+Amount: 0.0
+Date and Hour: 06-03-2023 20:49:54

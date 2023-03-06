@@ -1,0 +1,34 @@
+Customers: 
+
+
+Name: unknown
+Id: 0
+Phone: unknown
+List of accounts:
+Type: unknown
+Number: 200
+Balance: 0.0
+List of transactions:
+Id: 100
+Type: unknown
+Amount: 0.0
+Date and Hour: 06-03-2023 23:05:49
+
+Accounts: 
+
+
+Type: unknown
+Number: 200
+Balance: 0.0
+List of transactions:
+Id: 100
+Type: unknown
+Amount: 0.0
+Date and Hour: 06-03-2023 23:05:49
+Transactions: 
+
+
+Id: 100
+Type: unknown
+Amount: 0.0
+Date and Hour: 06-03-2023 23:05:49

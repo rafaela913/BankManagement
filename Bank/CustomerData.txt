@@ -1,0 +1,26 @@
+Name: ana
+Id: 3567
+Phone: 0876542879
+Accounts: . 
+null. 
+Type: savings
+Number: 2001
+Balance: 19345.0
+List of transactions:
+Id: 100
+Type: unknown
+Amount: 0.0
+Date and Hour: 06-03-2023 21:29:49
+Id: 101
+Type: deposit
+Amount: 200.0
+Date and Hour: 06-03-2023 21:29:49
+. 
+Type: unknown
+Number: 200
+Balance: 0.0
+List of transactions:
+Id: 100
+Type: unknown
+Amount: 0.0
+Date and Hour: 06-03-2023 21:29:49

@@ -1,0 +1,4 @@
+Id: 101
+Type: deposit
+Amount: 200.0
+Date and Hour: 06-03-2023 21:29:49
